@@ -1,0 +1,14 @@
+D:\sem 2\OOP\abstract class and inheritance\abstract class and inheritance\bin\Debug\net8.0\abstract class and inheritance.exe
+D:\sem 2\OOP\abstract class and inheritance\abstract class and inheritance\bin\Debug\net8.0\abstract class and inheritance.deps.json
+D:\sem 2\OOP\abstract class and inheritance\abstract class and inheritance\bin\Debug\net8.0\abstract class and inheritance.runtimeconfig.json
+D:\sem 2\OOP\abstract class and inheritance\abstract class and inheritance\bin\Debug\net8.0\abstract class and inheritance.dll
+D:\sem 2\OOP\abstract class and inheritance\abstract class and inheritance\bin\Debug\net8.0\abstract class and inheritance.pdb
+D:\sem 2\OOP\abstract class and inheritance\abstract class and inheritance\obj\Debug\net8.0\abstract class and inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 2\OOP\abstract class and inheritance\abstract class and inheritance\obj\Debug\net8.0\abstract class and inheritance.AssemblyInfoInputs.cache
+D:\sem 2\OOP\abstract class and inheritance\abstract class and inheritance\obj\Debug\net8.0\abstract class and inheritance.AssemblyInfo.cs
+D:\sem 2\OOP\abstract class and inheritance\abstract class and inheritance\obj\Debug\net8.0\abstract class and inheritance.csproj.CoreCompileInputs.cache
+D:\sem 2\OOP\abstract class and inheritance\abstract class and inheritance\obj\Debug\net8.0\abstract class and inheritance.dll
+D:\sem 2\OOP\abstract class and inheritance\abstract class and inheritance\obj\Debug\net8.0\refint\abstract class and inheritance.dll
+D:\sem 2\OOP\abstract class and inheritance\abstract class and inheritance\obj\Debug\net8.0\abstract class and inheritance.pdb
+D:\sem 2\OOP\abstract class and inheritance\abstract class and inheritance\obj\Debug\net8.0\abstract class and inheritance.genruntimeconfig.cache
+D:\sem 2\OOP\abstract class and inheritance\abstract class and inheritance\obj\Debug\net8.0\ref\abstract class and inheritance.dll
